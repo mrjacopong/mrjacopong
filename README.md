@@ -18,7 +18,7 @@ A little bit more about me!
 - 🔭 I’m currently working on MANY university projecs.
 - 🌱 I’m currently learning Latex, Python, Matlab... And any new useful software for my engineering growth.
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/jacopoferretti/), [Instagram](www.instagram.com/mrjacopong/), [Facebook](www.facebook.com/mr.jacopong).
-- ⚡ Fun fact: Do you know what is on my profile picture? ❦ It is a Fleuron: it was used by ancient typographers to divide different paragraph, and it acted as an ornament... Nearly useless but beautiful! It is here to remember me that sometimes we should sometimes give importance to the beauty of our world, as ancient people liked to do.
+- ⚡ Fun fact: Do you know what is on my profile picture? ❦ It is a Fleuron: it was used by ancient typographers to divide different paragraph, and it acted as an ornament... Nearly useless but beautiful! It is here to remember me that sometimes we should give more importance to the beauty of our world, as ancient people liked to do!
 
 <!--
 **mrjacopong/mrjacopong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
