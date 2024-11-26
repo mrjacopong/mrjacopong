@@ -10,14 +10,16 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a><br><br>
  
- I am Jacopo Ferretti, an italian student from the master course of Electric Vehicle Engineering at [MUNER  University](https://motorvehicleuniversity.com).:heart::battery::racing_car:
+ I am Jacopo Ferretti, an italian Ph.D. student in power electronics from [University of Bologna](https://motorvehicleuniversity.com). :heart: :battery: :racing_car:.
  
- I got my Bachelor's degree in Computer and Automation Engineering at [UNIVPM](https://www.univpm.it). :computer::gear::robot:
+ I got my Bachelor's degree in Computer and Automation Engineering at [UNIVPM](https://www.univpm.it) and my Master's degree in  Electric Vehicle Engineering at [MUNER  University](https://motorvehicleuniversity.com). :computer: :gear: :robot:
  
  What i love doing:
  - :black_nib: Writing in LaTeX.
- - :green_heart: Embedded systems programming and designing.
+ - :green_heart: Embedded systems programming and PCB design.
  - :printer: 3d printing.
+ - :zap: Simulate and have fun with power electronics.
+ - 🧠 Explore the word of the AI in the field of engineering.
 
 My previous Experiences:
 - :racing_car: Formula SAE team member at [Polimarche Racing Team](https://www.polimarcheracingteam.com), where i develloped the [Battery Management System Firmware](github.com/mrjacopong/BMS_LTC6813_class) for the future EV, and designed some circuit boards (Like the BMS circuit).
@@ -26,7 +28,7 @@ My previous Experiences:
 
 A little bit more about me!
 
-- 🔭 I’m currently working on MANY university projecs.
+- 🔭 I’m currently working on MANY projecs and pubblications.
 - 🌱 I’m currently learning Latex, Python, Matlab... And any new useful software for my engineering growth.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacopoferretti/), [Instagram](https://www.instagram.com/mrjacopong/), [Facebook](https://www.facebook.com/mr.jacopong).
 - ⚡ Fun fact: Do you know what is on my profile picture? ❦ It is a Fleuron: it was used by ancient typographers to divide different paragraph, and it acted as an ornament... Nearly useless but beautiful! It is here to remember me that sometimes we should give more importance to the beauty of our world, as ancient people liked to do!
